@@ -1,0 +1,34 @@
+# Visual Studio solution files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.tss
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Rider
+.idea/
+.vs/
+
+# Resharper
+*.DotSettings
+*.DotSettings.user
+
+# Mac
+.DS_Store
+
+# Misc
+*.resharper
+*.bak
+*.log
